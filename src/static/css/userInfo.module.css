@@ -1,0 +1,11 @@
+
+.userInfo a{
+    color:gray;
+    font-weight: 400;
+    margin-left: 10px;
+}
+
+.userInfo span{
+    color:black;
+    font-size: 18px;
+}

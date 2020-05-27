@@ -1,0 +1,30 @@
+html,body,#root{
+    min-height: 100%;
+}
+.layout{
+    display: flex;
+    flex-direction: column;
+    min-height:100vh !important;
+}
+
+.layout-content{
+    flex:1;
+    margin-top:20px;
+
+}
+
+#header{
+    padding:0;
+    height:auto;
+    margin:0;
+}
+
+#logo{
+    text-align: center;
+    height: 64px;
+    font-weight: bold;
+}
+
+.wrap{
+    background-color: white;
+}
